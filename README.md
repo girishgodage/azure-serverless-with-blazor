@@ -4,5 +4,5 @@ we will learn how to implement Azure serverless with Blazor web assembly. We wil
 
 # Read the full article
 
-You can read the complete article [Serverless With Blazor](https://girishgodage.in/blog/serverless-with-blazor/) at my blog
+You can read the complete article [Serverless With Blazor](https://girishgodage.in/blog/serverless-with-blazor) at my blog
 
